@@ -1,0 +1,18 @@
+{
+  "name": "bower-d3",
+  "description": "Built from https://github.com/sebastianseilund/d3/commit/0154acd9639a4fd1b0183333ca6f1f3906b1d3f2 (pie-spacing branch)",
+  "version": "0.0.0",
+  "homepage": "https://github.com/billysbilling/bower-d3",
+  "authors": [
+    "mbostock"
+  ],
+  "main": "d3.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

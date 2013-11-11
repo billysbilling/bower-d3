@@ -1,7 +1,7 @@
 {
   "name": "bower-d3",
   "description": "Built from https://github.com/sebastianseilund/d3/commit/0154acd9639a4fd1b0183333ca6f1f3906b1d3f2 (pie-spacing branch)",
-  "version": "0.0.0",
+  "version": "3.3.3-custom.1",
   "homepage": "https://github.com/billysbilling/bower-d3",
   "authors": [
     "mbostock"
